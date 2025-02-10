@@ -36,6 +36,7 @@ main{
   justify-content: center;
   align-items: center;
   justify-items: center;
+  align-content: center;
   width: 90%;
 }
 .die{
@@ -53,7 +54,7 @@ main{
 .rollDice-btn{
   height: 3.125rem;
   width: 6.25rem;
-  white-space: no-wrap
+  white-space: no-wrap;
   border: none;
   border-radius: var(--border-radius) ;
   background-color: var(--rolldice-bg-color);
